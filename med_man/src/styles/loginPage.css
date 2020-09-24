@@ -1,0 +1,21 @@
+
+#bg-login {
+	background-image: url(../assets/loginBg.jpg);
+	height: 100vh;
+	background-position: center;
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+#new-user {
+	display: flex;
+	
+}
+
+#new-user > p {
+	padding-top: 17px;
+}
+
+#new-user > button {
+	padding: 5px;
+}
